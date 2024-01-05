@@ -1,0 +1,11 @@
+/*
+
+!cmd/
+!internal/
+!pkg/
+!go.mod
+!go.sum
+!Makefile
+!.gitignore
+!README.md
+!docs/
